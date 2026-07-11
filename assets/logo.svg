@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 128" role="img" aria-labelledby="title desc">
+  <title id="title">肯旭等</title>
+  <desc id="desc">肯旭等品牌标识，包含合规盾牌图形和中文名称。</desc>
+  <rect width="128" height="128" rx="28" fill="#0f2d2d"/>
+  <path d="M64 20 98 33v24c0 27.7-14.6 45.3-34 55-19.4-9.7-34-27.3-34-55V33l34-13Z" fill="#d9eeeb"/>
+  <path d="M64 27 90 37v19c0 22.5-10.9 37.1-26 45.5C48.9 93.1 38 78.5 38 56V37l26-10Z" fill="#087b73"/>
+  <path d="M47 75c13.7-4.6 25-13.2 34-25" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M81 50v23H58" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="68" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="36" font-weight="800" fill="#ffffff">肯</text>
+  <text x="156" y="58" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="40" font-weight="800" fill="#14211f">肯旭等</text>
+  <text x="158" y="91" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18" font-weight="600" fill="#5f6f6b">Google Ads 合规咨询与投放支持</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="肯旭等">
+  <rect width="64" height="64" rx="14" fill="#0f2d2d"/>
+  <path d="M32 10 49 17v12c0 13.8-7.3 22.6-17 27.5C22.3 51.6 15 42.8 15 29V17l17-7Z" fill="#d9eeeb"/>
+  <path d="M32 14 45 19v9.5C45 39.7 39.6 47 32 51.2 24.4 47 19 39.7 19 28.5V19l13-5Z" fill="#087b73"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="22" font-weight="800" fill="#ffffff">肯</text>
+</svg>

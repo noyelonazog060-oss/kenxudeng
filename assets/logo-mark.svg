@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">肯旭等标志</title>
+  <desc id="desc">深青色盾牌内包含肯字和上升箭头，代表合规咨询与稳健投放。</desc>
+  <rect width="128" height="128" rx="28" fill="#0f2d2d"/>
+  <path d="M64 20 98 33v24c0 27.7-14.6 45.3-34 55-19.4-9.7-34-27.3-34-55V33l34-13Z" fill="#d9eeeb"/>
+  <path d="M64 27 90 37v19c0 22.5-10.9 37.1-26 45.5C48.9 93.1 38 78.5 38 56V37l26-10Z" fill="#087b73"/>
+  <path d="M47 75c13.7-4.6 25-13.2 34-25" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M81 50v23H58" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="68" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="36" font-weight="800" fill="#ffffff">肯</text>
+</svg>
